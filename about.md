@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: About Lucas
 permalink: /about/
 ---
 
-Some information about you!
+I am an NYU Student studying Computer Science that plays a lot of video games.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also like to video edit in my free time. 
 
